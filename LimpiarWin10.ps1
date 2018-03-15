@@ -8,7 +8,7 @@ get-appxpackage Microsoft.WindowsCamera | remove-appxpackage
 # Groove Music: 
 get-appxpackage Microsoft.ZuneMusic | remove-appxpackage
 # Mail & Calendar: 
-get-appxpackage icrosoft.windowscommunicationsapps | remove-appxpackage
+get-appxpackage Microsoft.windowscommunicationsapps | remove-appxpackage
 # Maps: 
 get-appxpackage Microsoft.WindowsMaps | remove-appxpackage
 # Movies & Tv: 
