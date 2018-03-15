@@ -1,1 +1,2 @@
-# getoutbloatware
+# Clear Windows 10 bloatware  
+Script that clean windows from apps like xbox, calendar..... 
